@@ -54,7 +54,7 @@
 	url = https://github.com/PromiseKit/SystemConfiguration
 [submodule "Extensions/Alamofire"]
 	path = Extensions/Alamofire
-	url = https://github.com/PromiseKit/Alamofire
+	url = https://github.com/hicebank/Alamofire
 [submodule "Extensions/OMGHTTPURLRQ"]
 	path = Extensions/OMGHTTPURLRQ
 	url = https://github.com/PromiseKit/OMGHTTPURLRQ
